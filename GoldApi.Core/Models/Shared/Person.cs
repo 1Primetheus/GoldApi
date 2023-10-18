@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using GoldApi.Enums;
+using GoldApi.Core.Enums;
 
-namespace GoldApi.Models;
+namespace GoldApi.Core.Models;
 
 public class Person
 {

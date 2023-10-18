@@ -1,0 +1,1 @@
+namespace GoldApi.Core.Constants;
